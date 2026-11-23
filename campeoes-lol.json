@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Garen",
+        "funcao": "top",
+        "classe": "lutador",
+        "dificuldade": "facil"
+    },
+    {
+        "id": 2,
+        "nome": "Shaco",
+        "funcao": "suporte",
+        "classe": "assasino",
+        "dificuldade": "facil"
+    },
+    {
+        "id": 3,
+        "nome": "Lee Sin",
+        "funcao": "jungle",
+        "classe": "lutador",
+        "dificuldade": "media"
+    },
+    {
+        "id": 4,
+        "nome": "Soraka",
+        "funcao": "top",
+        "classe": "tank",
+        "dificuldade": "facil"
+    },
+    {
+        "id": 5,
+        "nome": "Lulu",
+        "funcao": "atirador",
+        "classe": "atirador",
+        "dificuldade": "dificil"
+    },
+    {
+        "id": 6,
+        "nome": "Xin zhao",
+        "funcao": "suporte",
+        "classe": "assassino",
+        "dificuldade": "facil"
+    },
+    {
+        "id": 7,
+        "nome": "Kalista",
+        "funcao": "atirador",
+        "classe": "atirador",
+        "dificuldade": "dificil"
+    },
+    {
+        "id": 8,
+        "nome": "Amumu",
+        "funcao": "jungle",
+        "classe": "tank/mago",
+        "dificuldade": "facil"
+    },
+    {
+        "id": 9,
+        "nome": "Lucian",
+        "funcao": "atirador",
+        "classe": "atirador",
+        "dificuldade": "facil"
+    },
+    {
+        "id": 10,
+        "nome": "Rengar",
+        "funcao": "jungle",
+        "classe": "assassino",
+        "dificuldade": "media"
+    }
+]
