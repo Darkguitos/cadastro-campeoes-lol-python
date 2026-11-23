@@ -1,7 +1,7 @@
 # Atividade N3 - Cadastro de Campeões de League of Legends  
 
-## Sobre o trabalho
-O trabalho foi feito em Python para a avaliação N3 de Estrutura de Dados, com o objetivo do programa funcionar como um sistema simples de cadastro no terminal, usando como tema os campeões do LoL.
+## Sobre o codigo
+O codigo foi feito em Python com o objetivo do programa funcionar como um sistema simples de cadastro no terminal, usando como tema os campeões do LoL.
 
 Todas as informações cadastradas ficam guardadas em um arquivo JSON. Assim sempre que o programa é fechado e aberto novamente, os dados continuam salvos e não perdemos, assim como pediu na atividade.
 
